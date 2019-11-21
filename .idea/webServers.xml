@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="7b0ee2c5-0e70-49a9-a076-5872b8a36b4b" name="fdaaa" url="http://www.fdaaa.cn">
-        <fileTransfer host="www.fdaaa.cn" port="22" rootFolder="/data/wwwroot" accessType="SFTP">
+        <fileTransfer host="www.fdaaa.cn" port="22" rootFolder="/home/ubuntu/djangoproject" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
